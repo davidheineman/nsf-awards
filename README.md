@@ -1,6 +1,6 @@
 Dataset of 500K NSF awards. Last pulled May 2025.
 
-Data includes with titles, abstracts and metadata, from 1960-present. Data is originally from https://www.nsf.gov/awardsearch/download.jsp, and is hosted on HF.
+Data includes titles, abstracts and metadata, from 1960-present as they appear in the NSF database. Data is originally from https://www.nsf.gov/awardsearch/download.jsp, and is hosted on HF.
 
 **Note:** Awards prior to 1976 are not fully included, and do not have all fields filled-in.
 
